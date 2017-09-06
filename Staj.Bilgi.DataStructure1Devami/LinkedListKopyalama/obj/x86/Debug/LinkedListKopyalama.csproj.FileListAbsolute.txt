@@ -1,0 +1,4 @@
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\LinkedListKopyalama\bin\Debug\LinkedListKopyalama.exe
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\LinkedListKopyalama\bin\Debug\LinkedListKopyalama.pdb
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\LinkedListKopyalama\obj\x86\Debug\LinkedListKopyalama.exe
+C:\Users\TUGCE\Desktop\Staj.Bilgi.DataStructures1\DataStructureSuccinctlyPart1\LinkedListKopyalama\obj\x86\Debug\LinkedListKopyalama.pdb
